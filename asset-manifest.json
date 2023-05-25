@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Final-Poject-Store/static/css/main.44341e39.css",
-    "main.js": "/Final-Poject-Store/static/js/main.c156e9d5.js",
-    "static/js/787.1d755ed0.chunk.js": "/Final-Poject-Store/static/js/787.1d755ed0.chunk.js",
-    "static/media/SEGA.woff": "/Final-Poject-Store/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
-    "index.html": "/Final-Poject-Store/index.html",
-    "main.44341e39.css.map": "/Final-Poject-Store/static/css/main.44341e39.css.map",
-    "main.c156e9d5.js.map": "/Final-Poject-Store/static/js/main.c156e9d5.js.map",
-    "787.1d755ed0.chunk.js.map": "/Final-Poject-Store/static/js/787.1d755ed0.chunk.js.map"
+    "main.css": "/robot-react/static/css/main.5310633e.css",
+    "main.js": "/robot-react/static/js/main.b5276060.js",
+    "static/js/787.1d755ed0.chunk.js": "/robot-react/static/js/787.1d755ed0.chunk.js",
+    "static/media/SEGA.woff": "/robot-react/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/robot-react/index.html",
+    "main.5310633e.css.map": "/robot-react/static/css/main.5310633e.css.map",
+    "main.b5276060.js.map": "/robot-react/static/js/main.b5276060.js.map",
+    "787.1d755ed0.chunk.js.map": "/robot-react/static/js/787.1d755ed0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.44341e39.css",
-    "static/js/main.c156e9d5.js"
+    "static/css/main.5310633e.css",
+    "static/js/main.b5276060.js"
   ]
 }
